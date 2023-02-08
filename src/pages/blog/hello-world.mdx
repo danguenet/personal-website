@@ -1,0 +1,34 @@
+import { ArticleLayout } from '@/components/ArticleLayout'
+
+export const meta = {
+  author: 'Dan Guenet',
+  date: '2023-02-05',
+  title: 'Chapter 0: Hello World',
+  description:
+    'Just and introduction to the website and the blog. I will touch upon the intention behind this blog and how I built this website.',
+}
+
+export default (props) => <ArticleLayout meta={meta} {...props} />
+
+Welcome to my website! Most of my career has been trial and error to figure out the best way to do things.
+I wish, I had a resource that could have fast-tracked me to this point. I hope this website can be that 
+resource for you. I will be writing about the things I have learned and tips on how to progress in your career.
+
+In this blog, I don't plan on turning a simple topic into a 10,000-word Ted Talk. I know for SEO long-form content does very well,
+but I'd rather be direct and actionable with my words. That way you can consume the information, apply it to your own work, and 
+figure out if it works for you.
+
+## How I built this website
+
+I built this website using a template from [Tailwind UI](https://tailwindui.com/). In the past, I have tried building 
+personal websites from scratch using various static site generators. I always underestimated the amount of time it would take
+to design and code all the layouts and components. Using this template and building the site using Next.js, I was able to 
+get it up in a few days. I spent the majority of the time making alterations to the template and then copywriting the content. 
+
+I am using [GitHub](#) to host the website code. When I push new code to GitHub, GitHub actions will build the 
+website assets for me and deploy them to [Netlify](https://www.netlify.com/). Netlify is a great static site hosting service 
+that I have used in the past. I am also leveraging Netlify Forms to pass the subscribers to my email service provider.
+If you have any questions on how you can do this yourself or any feedback for myself feel free to reach out to me through 
+[email](mailto:danguenet@gmail.com) or [LinkedIn](https://www.linkedin.com/in/danguenet/)!
+
+I hope this blog turns out to be a great resource for you and please share it with anyone else you think would enjoy it!
