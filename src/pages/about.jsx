@@ -66,7 +66,7 @@ function Newsletter() {
     >
       <h2 className="flex text-sm font-semibold text-zinc-900 dark:text-zinc-100">
         <MailIcon2 className="h-6 w-6 flex-none" />
-        <span className="ml-3">Don't miss a blog post</span>
+        <span className="ml-3">Don&#39;t miss a blog post</span>
       </h2>
       <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
         Get notified when I publish something new, and unsubscribe at any time.
