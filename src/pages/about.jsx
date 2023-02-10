@@ -94,13 +94,15 @@ export default function About() {
               <SocialLink href="https://github.com/danguenet/personal-website" icon={GitHubIcon} className="mt-4">
                 Check out this website on GitHub
               </SocialLink>
-              <SocialLink
-                href="mailto:danguenet@gmail.com"
-                icon={MailIcon}
-                className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
-              >
-                danguenet@gmail.com
-              </SocialLink>
+              <li className={clsx("mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40", 'flex')}>
+                <Link
+                  href="mailto:danguenet@gmail.com"
+                  className="group flex text-sm font-medium text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"
+                >
+                  <MailIcon className="h-6 w-6 flex-none fill-zinc-500 transition group-hover:fill-teal-500" />
+                  <span className="ml-4">danguenet@gmail.com</span>
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
