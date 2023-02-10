@@ -48,6 +48,8 @@ function Article({ article }) {
 function Newsletter() {
   return (
     <form
+      name="newsletter"
+      method="POST"
       action="/thank-you"
       className="sticky top-20 rounded-2xl border border-zinc-100 p-6 dark:border-zinc-700/40"
       netlify-honeypot="bot-field"
