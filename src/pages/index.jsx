@@ -27,23 +27,23 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Dan Guenet - Senior Manager of Marketing Operations and Amateur Developer
+          Dan Guenet - Senior Manager of Revenue Operations and Amateur Developer
         </title>
         <meta
           name="description"
-          content="I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms."
+          content="Hello there, I'm Dan Guenet, a revenue operations expert who also enjoys programming. Throughout my career, I've gained valuable insights about Revenue Operations by integrating software engineering principles into my work. Now, I want to share my experiences and knowledge with others to help them excel in their careers."
         />
       </Head>
       <Container className="mt-12 sm:mt-32">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-          Senior Manager of Marketing Operations and Amateur Developer.
+          Senior Manager of Revenue Operations and Amateur Developer.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Dan Guenet, a marketing operations professional that likes to dabble in programming. 
-            Over my career, I have learned many things about Marketing Operations through my 
-            experiences and applying software engineering principles to my work. I am hoping to 
-            share my learnings with others and help them grow in their careers.
+          Hello there, I'm Dan Guenet, a revenue operations expert who also enjoys programming. 
+          Throughout my career, I've gained valuable insights about Revenue Operations by integrating 
+          software engineering principles into my work. Now, I want to share my experiences and knowledge 
+          with others to help them excel in their careers.
           </p>
         </div>
       </Container>

@@ -41,7 +41,7 @@ export default function About() {
         <title>About - Dan Guenet</title>
         <meta
           name="description"
-          content="I’m Dan Guenet..."
+          content="I’m Dan Guenet - Revenue Operations professional and amatuer developer. Come learn more about me and my work."
         />
       </Head>
       <Container className="mt-12 sm:mt-32">
@@ -52,31 +52,28 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I graduated college with a degree in both Marketing and Computer Science.
-                This started me down the path of Marketing Operations. My first big project was
-                migrating our company from a legacy CRM to Salesforce. This was the start of 
-                making a lot of mistakes and learning a lot of good lessons along the way. 
+              I graduated from college with degrees in Marketing and Computer Science, which 
+              led me to pursue a career in Revenue Operations. My first major project was migrating 
+              our company from a legacy CRM system to Salesforce. This experience taught 
+              me many valuable lessons, primarily through trial and error and making many mistakes along the way. 
               </p>
               <p>
-                My first mistake was where I found excitement in my work. I thought
-                the best part of marketing ops was solving problems in a very complex and creative
-                way to make sure I made the most complete solution. I realized that this is
-                good in theory, but bad in practice. I created a lot of brittle solutions that
-                were hard to debug. 
+              My initial mistake was in finding excitement in solving problems in overly complex ways. 
+              While this approach sounded great in theory, I soon realized that it was not practical. 
+              I ended up creating many brittle solutions that were difficult to debug and iterate on.
               </p>
               <p>
-                I realized I needed to shift my mindset and find enjoyment in solving problems in
-                the most simple way possible. It sounds boring, but there is a lot of satisfaction
-                in designing a solution with the constraints of simplicity in mind. I also realized
-                that I had learned this lesson back in college in my computer science classes. That
-                is when the lightbulb went off that I could apply software engineering principles to 
-                marketing operations.
+              As I gained more experience in my role, I discovered the value of simplicity in solving 
+              complex problems. I had actually learned this lesson years ago while studying computer science 
+              in college, but it wasn't until I realized that I could apply software engineering principles to 
+              Revenue Operations that everything clicked into place. This realization has been the driving force 
+              behind my career, allowing me to approach challenges in a more structured and effective way, and 
+              ultimately helping me to achieve great success.
               </p>
               <p>
-                At the end of the day, a marketing operations professional is a software engineer 
-                for the marketing team that uses no-code or low-code tools to solve problems and build
-                systems. I have found much success in applying this mindset to my work and I am excited
-                to share that mindset and my other learnings through this blog!
+              As a Revenue Operations professional, I see myself as a software engineer for the revenue teams 
+              who utilizes no-code or low-code tools to solve problems and build systems. Applying this mindset 
+              has led to great success in my work, and I am thrilled to share my insights and experiences through this blog.
             </p>
             </div>
           </div>
