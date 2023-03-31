@@ -40,8 +40,8 @@ export default function Home({ articles }) {
           Senior Manager of Revenue Operations and Amateur Developer.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Hello there, I'm Dan Guenet, a revenue operations expert who also enjoys programming. 
-          Throughout my career, I've gained valuable insights about Revenue Operations by integrating 
+          Hello there, I&apos;m Dan Guenet, a revenue operations expert who also enjoys programming. 
+          Throughout my career, I&apos;ve gained valuable insights about Revenue Operations by integrating 
           software engineering principles into my work. Now, I want to share my experiences and knowledge 
           with others to help them excel in their careers.
           </p>
