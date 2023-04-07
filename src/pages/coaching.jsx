@@ -65,19 +65,19 @@ export default function Uses() {
           <Group title="Pricing">
             <Item title="$200 a week">
               I charge $200 a week for the 1 hour of coaching and the slack support. This is an ideal
-              setup for anyone who doesn't have an operations mentor at their company. You and your 
+              setup for anyone who doesn&apos;t have an operations mentor at their company. You and your 
               company will instantly see the benefits. Systems and projects will be done in a proven 
-              way that delivers value. Time won't have to be wasted researching or worse, through trial 
+              way that delivers value. Time won&apos;t have to be wasted researching or worse, through trial 
               and error. 
             </Item>
             <Item title="2 free weeks">
-              Who doesn't love a free trial. I can write all the copy I want on this page, but honestly
+              Who doesn&apos;t love a free trial. I can write all the copy I want on this page, but honestly
               copy writing has never been my strong suit. Lucky for you and me, I know I my strong suit
               is operations and helping others. So I will showcase my value with action.
             </Item>
             <Item title="Cancel anytime">
               Who wants to be locked into a contract? Not me. Cancel anytime you want. You may end up 
-              hiring a manager who has relevant experience and I don't want to be a redundant expense.
+              hiring a manager who has relevant experience and I don&apos;t want to be a redundant expense.
             </Item>
           </Group>
         </div>
@@ -85,8 +85,8 @@ export default function Uses() {
             <div className="lg:order-first lg:row-span-2 lg:mx-8">
                 <blockquote className="text-center text-zinc-800 dark:text-zinc-100 text-lg font-thin leading-8">
                     <p>
-                        "I need to write a super long example quote to test out the functionality of this page. 
-                        Wow I am running out of words to type. I hope this is long enough."
+                        &quot;I need to write a super long example quote to test out the functionality of this page. 
+                        Wow I am running out of words to type. I hope this is long enough.&quot;
                     </p>
                 </blockquote>
                 <figcaption className="mt-3 text-center text-base text-zinc-800 dark:text-zinc-100">
@@ -97,8 +97,8 @@ export default function Uses() {
             <div className="lg:mx-8">
               <blockquote className="text-center text-zinc-800 dark:text-zinc-100 text-lg font-thin leading-8">
                     <p>
-                        "I need to write a super long example quote to test out the functionality of this page. 
-                        Wow I am running out of words to type. I hope this is long enough."
+                        &quot;I need to write a super long example quote to test out the functionality of this page. 
+                        Wow I am running out of words to type. I hope this is long enough&quot;
                     </p>
                 </blockquote>
                 <figcaption className="mt-3 text-center text-base text-zinc-800 dark:text-zinc-100">
